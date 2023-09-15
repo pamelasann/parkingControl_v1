@@ -6,3 +6,14 @@ The application bases it functionaluty in IoT technology to connect to a hardwar
 
 <img src="images/splash.jpeg" width=200 height=400>
 <img src="images/preview.jpeg" width=200 height=400>
+
+
+
+### Acknowledgments
+
+This application could not have been made possible without the help of my amazing team: 
+- Paola Ramos
+- Monica Escobedo
+- Gabriela Medina
+
+Truly greatfull with them :D
