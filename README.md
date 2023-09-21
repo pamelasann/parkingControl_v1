@@ -12,8 +12,7 @@ The application bases it functionaluty in IoT technology that connects to a hard
 ### Acknowledgments
 
 This application could not have been made possible without the help of my amazing team: 
-- Paola Ramos
-- Monica Escobedo
-- Gabriela Medina
+- Paola Ramos and Gabriela Medina, who worked on the hardware system and provided their knowledge to complete the parking lot simulation and worked to make the connection between the sensors and the database.
+- Monica Escobedo who supported us throughout the development of the project and insights in design made possible this first mockup.
 
 Truly greatfull with them :D
