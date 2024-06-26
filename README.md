@@ -1,5 +1,7 @@
 # parkingControl
 
+> **Note:** This repository has been archived and is no longer actively maintained. Please ensure all dependencies are updated to their latest versions before using this code.
+
 Parking Control app is an iOS appllication that lets the user monitor a parking lot status in realtime. The objective of the application is to provide a visual representation of the available and unavailable parking spots during rush hours.
 
 The application bases it functionality in IoT technology that connects to a hardware system (an ultrasonic sensor system) enabling real-time object proximity detection. It seamlessly transmits this data to a Firebase real-time database, which is then accessed by the app to provide users with a user-friendly interface for monitoring sensor information.
